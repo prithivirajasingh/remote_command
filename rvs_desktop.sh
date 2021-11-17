@@ -1,1 +1,1 @@
-sudo id
+#sudo id
