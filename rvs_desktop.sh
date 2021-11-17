@@ -1,1 +1,1 @@
-echo Hi
+sudo id
