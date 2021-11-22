@@ -1,2 +1,3 @@
 # reboot
 sudo id
+id
