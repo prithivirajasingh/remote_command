@@ -1,3 +1,1 @@
 # reboot
-sudo id
-id
