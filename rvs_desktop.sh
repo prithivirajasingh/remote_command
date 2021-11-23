@@ -1,2 +1,2 @@
-sudo systemctl restart teamviewer
+#sudo systemctl restart teamviewer
 #sudo id
